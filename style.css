@@ -29,7 +29,7 @@ p{
 	display: flex;
 	display: -webkit-flex;
 	height: 100vh;
-	background: url(images/background.png);
+	background: url(images/Background.png);
 	background-size: cover;
 	margin: 0 auto;
 }
